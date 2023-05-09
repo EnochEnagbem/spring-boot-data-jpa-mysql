@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.bezkoder</groupId>
 	<artifactId>spring-boot-data-jpa</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-data-jpa</name>
+	<version>1</version>
+	<name>sb_data_jpa</name>
 	<description>Demo project for Spring Boot Apis CRUD using Spring Data JPA</description>
 
 	<properties>
