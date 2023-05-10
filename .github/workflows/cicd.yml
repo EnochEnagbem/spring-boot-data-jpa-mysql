@@ -23,7 +23,7 @@ jobs:
           mvn -B package --file pom.xml
           mvn -B test
         
-    deploy:
+  deploy:
       runs-on: ubuntu-latest
       steps:
           - uses: actions/checkout@v2
